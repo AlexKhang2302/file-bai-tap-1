@@ -1,0 +1,8 @@
+import math
+
+a = float(input("Nhap so a: "))
+b = math.sqrt(a)
+if round(b) == math.sqrt(a):
+    print("a la so chinh phuong")
+else:
+    print("a khong la so chinh phuong")
