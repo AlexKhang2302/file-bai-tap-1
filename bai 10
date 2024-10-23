@@ -1,0 +1,3 @@
+la = float(input("So tien luong thang nay nhan duoc: "))
+
+print("Tien quy den :", a - (90/100*a),"VND")
