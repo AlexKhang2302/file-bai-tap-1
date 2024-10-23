@@ -1,0 +1,6 @@
+a = float(input("Nhap so a: "))
+
+if round(a) == a:
+    print("a la so nguyen")
+else:
+    print("a khong la so nguyen")
