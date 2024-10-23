@@ -1,3 +1,3 @@
-a = float(input("Nhap so a: ))
+a = float(input("Nhap so a: "))
 
 print(a*3 + 1)
