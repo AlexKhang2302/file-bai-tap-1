@@ -1,0 +1,8 @@
+a = float(input("Nhap so nguyen a: "))
+
+if a%5 == 0 and a <= 50:
+    print("True")
+elif a%5 == 0 and a >= 100:
+    print("True")    
+else: 
+    print("False")
