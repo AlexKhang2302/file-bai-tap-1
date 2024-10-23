@@ -1,0 +1,2 @@
+n = float(input("Nhap do C: "))
+print("Do F: ", n*1.8 + 32)
