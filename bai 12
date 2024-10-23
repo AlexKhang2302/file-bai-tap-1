@@ -1,0 +1,10 @@
+a = float(input("Nhap so a: "))
+b = float(input("Nhap so b: "))
+c = float(input("Nhap so c: "))
+d = (a+b)**c
+print("d = (a+b)^c =",d)
+
+if 100 <= d and d <= 200:
+    print("True")
+else:
+    print("False")
